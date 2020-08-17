@@ -15,3 +15,6 @@ Gemfile.lock
 
 # bundle cache
 vendor
+
+#s3_website config
+s3_website.yml
